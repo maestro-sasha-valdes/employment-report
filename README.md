@@ -7,11 +7,11 @@ Una empresa de exportación de servicios de software tiene un padrón de emplead
 
 <h4> Tenga en cuenta que: </h4>
 
-Para todos los empleados, el salario bruto es igual al salario_neto + el 10% en concepto de beneficios + MXN $1,200.00 en bonos de asistencia y puntualidad. Un empleado en nómina, se le incrementa el 15% del salario bruto por concepto de impuestos de contratación, mientras que a un contratista, sólo el 5%.
-El margen de ganancia es la diferencia entre la tarifa y el costo del empleado, expresado en USD. El costo de un empleado se calcula sumando salario bruto + costo_unitario_empleado. 
-El costo_unitario_empleado es un valor anual constante que para el 2022 se estimó en MXN $6,450.00.
+* Para todos los empleados, el salario bruto es igual al salario_neto + el 10% en concepto de beneficios + MXN $1,200.00 en bonos de asistencia y puntualidad. Un empleado en nómina, se le incrementa el 15% del salario bruto por concepto de impuestos de contratación, mientras que a un contratista, sólo el 5%.
+* El margen de ganancia es la diferencia entre la tarifa y el costo del empleado, expresado en USD. El costo de un empleado se calcula sumando salario bruto + costo_unitario_empleado. 
+* El costo_unitario_empleado es un valor anual constante que para el 2022 se estimó en MXN $6,450.00.
 Se toma a la fecha el cambio de moneda 20 MXN = 1 USD.
-Un empleado por nómina contribuye con un 23% de impuestos bajo el Régimen de Asalariado, mientras que un contratista tributa con un 5% bajo el Régimen de Confianza.
+* Un empleado por nómina contribuye con un 23% de impuestos bajo el Régimen de Asalariado, mientras que un contratista tributa con un 5% bajo el Régimen de Confianza.
 
 <h3> Orientación </h3>
 1. Identifique las fórmulas correspondientes a los valores de:
